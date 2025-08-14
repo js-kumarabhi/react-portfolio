@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Freecomers: Film Industry Platform",
+    "description": "A networking platform for film professionals with profiles, job listings, chat, and collaboration tools. Built with ReactJS and Laravel APIs.",
+    "image": "/images/freecomers.png",
+    "view_url": "https://freecomers.com",
+    "technologies": ["ReactJS", "Material UI", "REST API", "JavaScript"],
+    "category": "Web Apps"
+  },
+  {
+    "id": "2",
+    "name": "Autovertest: Testing Tool",
+    "description": "A web testing tool for automating test flows using React, React Flow, and JavaScript with a user-friendly interface.",
+    "image": "/images/autovertest.png",
+    "github_url": "https://github.com/techgroupranchi02/WTF_FRONTEND_2.0.git",
+    "technologies": ["React", "JavaScript", "React Flow", "Material UI", "REST API"],
+    "category": "Web Apps"
+  },
+  {
+    "id": "3",
+    "name": "Flexy: Online Shopping App",
+    "description": "An e-commerce app for browsing, selecting, and securely purchasing a wide range of products.",
+    "image": "/images/flexy.png",
+    "view_url": "https://js-kumarabhi.github.io/flexy/",
+    "github_url": "https://github.com/js-kumarabhi/flexy",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "category": "Web Apps"
+  },
+  {
+    "id": "4",
+    "name": "ITI Lakhipur Website",
+    "description": "Official site of ITI Lakhipur, offering vocational training info and updates. Built using WordPress CMS.",
+    "image": "/images/itilakhipur.png",
+    "view_url": "https://itilakhipur.org.in/",
+    "technologies": ["WordPress - CMS"],
+    "category": "WordPress"
+  },
+  {
+    "id": "5",
+    "name": "Weather Forecast App",
+    "description": "A weather app showing real-time updates and forecasts based on location using Rapid API.",
+    "image": "/images/weatherapp.png",
+    "view_url": "https://js-kumarabhi.github.io/weatherapp/",
+    "github_url": "https://github.com/js-kumarabhi/weatherapp",
+    "technologies": ["HTML", "CSS", "JavaScript", "Rapid API"],
+    "category": "Web Apps"
+  },
+  {
+    "id": "6",
+    "name": "Analog Clock with Alarm",
+    "description": "A custom analog clock with alarm functionality built using HTML, CSS, and JavaScript.",
+    "image": "/images/watch.png",
+    "view_url": "https://js-kumarabhi.github.io/analog-clock/",
+    "github_url": "https://github.com/js-kumarabhi/analog-clock",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "category": "Web Apps"
+  },
+    {
+    "id": "7",
+    "name": "Company Portfolio Website",
+    "description": "A company portfolio website to showcase the projects, team, and services offered.",
+    "image": "/images/aikyam.png",
+    "view_url": "https://aikyamsolutions.netlify.app/",
+    "technologies": ["HTML", "CSS", "JavaScript", "ReactJS", "Material UI", "Bootstrap"],
+    "category": "Web Apps"
+  },
+  {
+    "id": "8",
+    "name": "JFTA Acting School",
+    "description": "A website for the JFTA Acting School showcasing their programs, faculty, and admission process.",
+    "image": "https://aikyamsolutions.netlify.app/images/gallery-img/jfta.webp",
+    "view_url": "https://aikyamsolutions.netlify.app/images/gallery-img/jfta.webp",
+    "technologies": ["Figma"],
+    "category": "UI Design"
+  },
+  {
+    "id": "9",
+    "name": "Restaurant Website",
+    "description": "A responsive website for a restaurant showcasing the menu, ambiance, and reservation options.",
+    "image": "https://aikyamsolutions.netlify.app/images/gallery-img/Restobar.webp",
+    "view_url": "https://aikyamsolutions.netlify.app/images/gallery-img/Restobar.webp",
+    "technologies": ["Figma"],
+    "category": "UI Design"
+  }
+]

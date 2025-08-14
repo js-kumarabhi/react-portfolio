@@ -1,0 +1,28 @@
+{
+    "services": [
+        {
+            "title": "Web Development",
+            "description": "Building responsive and interactive websites using the latest technologies."
+        },
+        {
+            "title": "UI/UX Design",
+            "description": "Crafting user-friendly interfaces that enhance the overall user experience."
+        },
+        {
+            "title": "API Integration",
+            "description": "Connecting frontend interfaces with backend services for seamless data flow."
+        },
+        {
+            "title": "Frontend Frameworks",
+            "description": "Leveraging popular frameworks like React to build dynamic user interfaces."
+        },
+        {
+            "title": "Responsive Design",
+            "description": "Ensuring websites look great and function well on all devices."
+        },
+        {
+            "title": "WordPress Personalization",
+            "description": "Tailoring WordPress themes and plugins to meet specific client needs."
+        }
+    ]
+}

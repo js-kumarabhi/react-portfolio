@@ -1,0 +1,29 @@
+{
+  "blogs": [
+    {
+      "id": "blog1",
+      "title": "The Future of Web Design",
+      "description": "Exploring emerging trends in UI/UX design, accessibility, and responsive frameworks for the next decade."
+    },
+    {
+      "id": "blog2",
+      "title": "React Performance Optimization Tips",
+      "description": "Learn how to make your React applications faster by using memoization, lazy loading, and code splitting."
+    },
+    {
+      "id": "blog3",
+      "title": "Getting Started with Node.js",
+      "description": "A beginner-friendly guide to setting up your first Node.js project and building a simple REST API."
+    },
+    {
+      "id": "blog4",
+      "title": "Understanding RESTful APIs",
+      "description": "An introduction to REST principles, HTTP methods, and best practices for API development."
+    },
+    {
+      "id": "blog5",
+      "title": "Top 10 VS Code Extensions for Developers",
+      "description": "Boost your productivity with these must-have Visual Studio Code extensions for web development."
+    }
+  ]
+}

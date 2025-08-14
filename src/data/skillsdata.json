@@ -1,0 +1,29 @@
+{
+  "skills": [
+    {
+      "id": "skill1",
+      "category": "Design",
+      "items": ["UI/UX Design", "Figma", "Wireframing", "Prototyping"]
+    },
+    {
+      "id": "skill2",
+      "category": "Front-End Development",
+      "items": ["HTML5", "CSS", "JavaScript", "React", "React Flow", "Bootstrap", "Material UI"]
+    },
+    {
+      "id": "skill3",
+      "category": "Back-End Integration",
+      "items": ["Laravel RESTful APIs", "NodeJs RESTful APIs"]
+    },
+    {
+      "id": "skill4",
+      "category": "Tools & Technologies",
+      "items": ["Git", "GitHub", "Visual Studio Code", "Chrome DevTools", "Postman", "cPanel"]
+    },
+    {
+      "id": "skill5",
+      "category": "Other",
+      "items": ["API Integration", "Responsive Web Development", "Performance Optimization", "Problem Solving"]
+    }
+  ]
+}

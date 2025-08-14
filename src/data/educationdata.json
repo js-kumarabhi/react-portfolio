@@ -1,0 +1,22 @@
+{
+  "education": [
+    {
+      "id": "edu1",
+      "degree": "Master of Computer Applications",
+      "abbreviation": "MCA",
+      "university": "Magadh University",
+      "location": "Bihar, India",
+      "session": "March 2020 - June 2023",
+      "score": "79%"
+    },
+    {
+      "id": "edu2",
+      "degree": "Bachelor of Computer Applications",
+      "abbreviation": "BCA",
+      "university": "Magadh University",
+      "location": "Bihar, India",
+      "session": "March 2017 - April 2020",
+      "score": "78%"
+    }
+  ]
+}

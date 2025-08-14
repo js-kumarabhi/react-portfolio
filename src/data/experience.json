@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "UI Lead",
+    "company": "Aikyam Solutions",
+    "location": "Ranchi, Jharkhand",
+    "start_date": "July 2024",
+    "end_date": "Present",
+    "responsibilities": [
+      "Led front-end development team, architecting UI/UX designs and coding responsive interfaces using React and React Flow.",
+      "Collaborated with designers and backend developers to deliver mobile-first web applications, optimizing performance by 15%.",
+      "Conducted code reviews, mentored junior developers, and managed project timelines to ensure on-time delivery.",
+      "Utilized Figma, GitHub, and Visual Studio Code for design-to-code workflows and team collaboration."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Front End Developer Intern",
+    "company": "Aikyam Solutions",
+    "location": "Ranchi, Jharkhand",
+    "start_date": "January 2024",
+    "end_date": "July 2024",
+    "responsibilities": [
+      "Developed and maintained web application front-ends using HTML, CSS, JavaScript, and React, ensuring pixel-perfect designs.",
+      "Translated UI/UX designs into functional, responsive interfaces, integrating RESTful APIs for dynamic functionality.",
+      "Implemented version control using Git, streamlining development workflows and reducing merge conflicts."
+    ]
+  }
+]
