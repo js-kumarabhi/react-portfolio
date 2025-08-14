@@ -140,7 +140,7 @@ const MyResume = () => {
 
             {/* Download Resume */}
             <Box mt={4} textAlign="center">
-                <Button variant="contained" color="primary" startIcon={<CloudDownload />} href="/abhishek_resume.pdf" download sx={{ textTransform: 'none' }}>
+                <Button variant="contained" color="primary" startIcon={<CloudDownload />} href="/Abhishek Kumar.docx" download sx={{ textTransform: 'none' }}>
                     Download Resume
                 </Button>
             </Box>
